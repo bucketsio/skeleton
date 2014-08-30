@@ -1,0 +1,16 @@
+{
+  "name": "blog.buckets.io",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "buckets": "0.0.4",
+    "coffee-script": "^1.8.0",
+    "express": "^4.8.6"
+  }
+}
