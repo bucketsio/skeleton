@@ -9,8 +9,6 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "buckets": "0.0.4",
-    "coffee-script": "^1.8.0",
-    "express": "^4.8.6"
+    "buckets": "^0.1.0"
   }
 }
