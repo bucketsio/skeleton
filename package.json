@@ -1,14 +1,14 @@
 {
   "name": "blog.buckets.io",
   "version": "0.0.0",
-  "description": "",
+  "description": "A skeleton project for Buckets.",
   "scripts": {
     "start": "node index.js"
   },
   "main": "index.js",
-  "author": "",
+  "author": "David Kaneda",
   "license": "",
   "dependencies": {
-    "buckets": "^0.1.0"
+    "buckets": "*"
   }
 }
