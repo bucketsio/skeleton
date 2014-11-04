@@ -1,14 +1,19 @@
 {
-  "name": "blog.buckets.io",
-  "version": "0.0.0",
+  "name": "buckets-heroku-skeleton",
+  "version": "0.0.1",
   "description": "A skeleton project for Buckets.",
   "scripts": {
     "start": "node index.js"
   },
   "main": "index.js",
   "author": "David Kaneda",
-  "license": "",
+  "license": "MIT",
   "dependencies": {
     "buckets": "*"
+  },
+  "homepage": "http://buckets.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bucketsio/skeleton.git"
   }
 }

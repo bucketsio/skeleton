@@ -1,6 +1,6 @@
 {
   "name": "Buckets",
-  "description": "Buckets is a CMS built with Node.js and MongoDB.",
+  "description": "Buckets is simple, friendly CMS built with Node.js.",
   "keywords": [
     "cms",
     "node",
@@ -14,5 +14,5 @@
   "env": {
     "NODE_ENV": "production"
   },
-  "addons": ["mongohq", "mandrill", "cloudinary"]
+  "addons": ["mongohq", "mandrill", "cloudinary", "papertrail"]
 }
